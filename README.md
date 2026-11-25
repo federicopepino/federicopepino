@@ -1,7 +1,8 @@
 ## Federico Andrés Pepino
 
-Construyo medios sectoriales que se actualizan solos.
-Córdoba, Argentina · Historia e Ingeniería en Computación (UNC)
+Fundador y director de cuatro medios sectoriales que se actualizan solos.
+
+Córdoba, Argentina
 
 > Un dato sin fuente es un rumor. Un dato sin orden es ruido.
 
@@ -41,9 +42,9 @@ Los portales están desarrollados con IA (Claude Code). El diseño, la direcció
 
 ### Formación
 
-- Licenciatura en Historia · UNC
-- Ingeniería en Computación · UNC
-- Especialista en Automatización con n8n · UNC (2026)
+- Licenciatura en Historia · UNC (en curso)
+- Ingeniería en Computación · UNC (en curso)
+- Certificación en automatización con n8n · UNC (2026)
 
 ### Contacto
 
