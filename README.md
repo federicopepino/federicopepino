@@ -17,7 +17,7 @@ Córdoba, Argentina
 | **El Gran Ganadero** | Granos, hacienda y remates | [el-gran-ganadero.pages.dev](https://el-gran-ganadero.pages.dev) |
 | **La Cuenca Láctea** | Lechería argentina | [la-cuenca-lactea.pages.dev](https://la-cuenca-lactea.pages.dev) |
 
-Cada portal agrega noticias del sector con enlace a la fuente original, precios de referencia, proyectos, normativa, directorio de empresas y foro.
+Cada portal agrega noticias del sector con enlace a la fuente original, precios de referencia, proyectos, normativa y foro.
 
 ### Cómo funcionan
 
